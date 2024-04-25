@@ -12,6 +12,9 @@ import java.security.Key;
 import java.util.*;
 import java.util.function.Function;
 
+// Providing all JWT Functionalities
+// Generate, Extract Claims, Expiration Validation, ...
+
 @Service
 public class JwtService {
 
